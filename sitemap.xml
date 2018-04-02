@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://highdeasproductions.com/index.html</loc>
+    <lastmod>2018-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/high-ideas-logo-1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/enter-highdeas.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://highdeasproductions.com/about.html</loc>
+    <lastmod>2018-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/youtube@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/facebook@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/twitter@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/instagram@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://highdeasproductions.com/images/mail@2x.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
